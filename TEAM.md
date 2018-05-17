@@ -1,14 +1,14 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Rahul Sharma
+Role: Founder/CEO
 
 ## Team Member 1
 
-Name: [name]
-Role: [role]
+Name: Shivam Khandelwal
+Role: Chief Technology office
 
 ## Team Member 2
 
-Name: [name]
-Role: [role]
+Name: Rovak Master
+Role: Transaction confirmation expert.
